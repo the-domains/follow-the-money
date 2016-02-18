@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-18T18:04:55.163Z'
-dateModified: '2016-02-18T18:04:19.775Z'
+datePublished: '2016-02-18T18:08:57.447Z'
+dateModified: '2016-02-18T18:08:33.605Z'
 title: Following the Money
 author: []
+sourcePath: _posts/2016-02-18-following-the-money.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-18-following-the-money.md
-published: true
 url: following-the-money/index.html
 _type: Article
 
