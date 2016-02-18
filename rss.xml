@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Follow the Money]]></title>
         <description><![CDATA[Follow the Money]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/follow-the-money/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 18:05:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Feb 2016 18:09:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/follow-the-money/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Following the Money]]></title>
             <description><![CDATA[<article><h1>Following the Money</h1><p>Did you know that it is possible to watch the large players of the market buy and sell? </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4967231948ad4bc5aea5fdec7d33212010652634.png"></article>]]></description>
-            <link>undefinedfollowing-the-money/index.html</link>
+            <link>https://thegrid.ai/follow-the-money/following-the-money/index.html</link>
             <guid isPermaLink="false">3371b06d-006e-453e-bf4a-3f8b916a79e1</guid>
-            <pubDate>Thu, 18 Feb 2016 18:04:55 GMT</pubDate>
+            <pubDate>Thu, 18 Feb 2016 18:08:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
